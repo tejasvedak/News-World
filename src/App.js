@@ -15,7 +15,7 @@ class App extends Component {
           <img className="appLogo" src={logo} alt="React Logo" />
 
           <div className="title">
-            <h1>&lt;insert fancy name&gt;</h1>
+            <h1>News World</h1>
             <h4>
               Powered by
               <a href="https://newsapi.org/"> News API </a>🔥{' '}
@@ -24,7 +24,7 @@ class App extends Component {
 
           <img className="scriptLogo" src={news} alt="Javascript Logo" />
         </div>
-        <Search default="bbc-news" />
+        <Search default="the-times-of-india" />
         <Footer />
       </div>
     );
