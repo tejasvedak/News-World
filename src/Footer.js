@@ -10,7 +10,7 @@ class Footer extends Component {
           Made with
           <i className="fa fa-heart" aria-hidden="true" />
           <a href="https://www.linkedin.com/in/tejasvedak/" target="_blank" rel="noopener noreferrer">
-            by Tejas Vedak
+            by Tejas
           </a>
         </span>
 

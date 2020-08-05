@@ -33,6 +33,10 @@
 	color: #4E342E;
 }
 
+.fa-heart {
+	color: #df2029
+}
+
 .fa {
 	margin: 7px;
 	transition: 0.4s all ease-in;
