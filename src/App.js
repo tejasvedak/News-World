@@ -4,8 +4,8 @@ import Search from './Search.js';
 import './Search.css';
 import Footer from './Footer.js';
 import './Footer.css';
-import logo from './images/react.svg';
-import news from './images/news.png';
+import logo from './images/newsworld.png';
+import news from './images/newsworld.png';
 
 class App extends Component {
   render() {
