@@ -27,7 +27,7 @@ a {
 }
 
 .title a {
-  color: white;
+  color: lightblue;
 }
 
 .appLogo {
@@ -44,7 +44,7 @@ a {
 .appHeader {
   background-color: #222;
   padding: 20px;
-  color: white;
+  color: lightblue;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
